@@ -6,6 +6,7 @@
 /[Uu]ser[Ss]ettings/
 Assets/Mirror/Examples/
 Assets/ScriptTemplates/
+Library/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -101,21 +102,6 @@ Assets/WwiseSettings.xml
 Assets/WwiseSettings.xml.meta
 Assets/StreamingAssets/Audio/
 Assets/StreamingAssets/Audio.meta
-
-#не знаю зачем эти zip файлы, они были в пакете Appodeal
-*.validationcache
-
-# токены авторизации в Google Sheets
-ConsoleParser/CaveLootCsvs_token.json/
-ConsoleParser/Localization_token.json/
-ConsoleParser/MainCsvs_token.json/
-logRunSetup.txt
-
-# снепшоты памяти профайлера памяти
-MemoryCaptures/
-Assets/StreamingAssets/build_info
-Library/
-ProjectSettings/Packages/com.unity.probuilder/
 
 Build/
 Recordings/
